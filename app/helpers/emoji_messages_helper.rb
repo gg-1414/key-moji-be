@@ -1,0 +1,2 @@
+module EmojiMessagesHelper
+end
