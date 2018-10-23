@@ -35,13 +35,15 @@ ActiveRecord::Schema.define(version: 2018_10_18_215203) do
 
   create_table "messages", force: :cascade do |t|
     t.integer "user_id"
-    t.integer "emoji_message_id"
+    t.string "input"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
   create_table "users", force: :cascade do |t|
     t.string "name"
+    t.string "username"
+    t.string "password_digest"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
