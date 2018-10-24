@@ -1,2 +1,0 @@
-class EmojiMessagesController < ApplicationController
-end
