@@ -83,11 +83,6 @@ emojis = [
     "keywords": "upside-down face silly smiley sarcastic sarcastic"
   },
   {
-    "title": "Relaxed",
-    "symbol": "☺",
-    "keywords": "white smiling face happy smiley"
-  },
-  {
     "title": "Yum",
     "symbol": "😋",
     "keywords":
@@ -238,11 +233,6 @@ emojis = [
     "title": "Slight Frown",
     "symbol": "🙁",
     "keywords": "slightly frowning face sad smiley emotion emotion"
-  },
-  {
-    "title": "Frowning2",
-    "symbol": "☹",
-    "keywords": "white frowning face sad smiley emotion emotion"
   },
   {
     "title": "Persevere",
@@ -882,75 +872,10 @@ emojis = [
     "keywords": "family (man,woman,girl) people family baby"
   },
   {
-    "title": "Family Mwgb",
-    "symbol": "👨",
-    "keywords": "family (man,woman,girl,boy) people family baby"
-  },
-  {
-    "title": "Family Mwbb",
-    "symbol": "👨",
-    "keywords": "family (man,woman,boy,boy) people family baby"
-  },
-  {
-    "title": "Family Mwgg",
-    "symbol": "👨",
-    "keywords": "family (man,woman,girl,girl) people family baby"
-  },
-  {
     "title": "Family Wwb",
     "symbol": "👩",
     "keywords":
       "family (woman,woman,boy) people family women baby lgbt lgbt lesbian lesbian"
-  },
-  {
-    "title": "Family Wwg",
-    "symbol": "👩",
-    "keywords":
-      "family (woman,woman,girl) people family women baby lgbt lgbt lesbian lesbian"
-  },
-  {
-    "title": "Family Wwgb",
-    "symbol": "👩",
-    "keywords":
-      "family (woman,woman,girl,boy) people family women baby lgbt lgbt lesbian lesbian"
-  },
-  {
-    "title": "Family Wwbb",
-    "symbol": "👩",
-    "keywords":
-      "family (woman,woman,boy,boy) people family women baby lgbt lgbt lesbian lesbian"
-  },
-  {
-    "title": "Family Wwgg",
-    "symbol": "👩",
-    "keywords":
-      "family (woman,woman,girl,girl) people family women baby lgbt lgbt lesbian lesbian"
-  },
-  {
-    "title": "Family Mmb",
-    "symbol": "👨",
-    "keywords": "family (man,man,boy) people gay family men baby lgbt lgbt"
-  },
-  {
-    "title": "Family Mmg",
-    "symbol": "👨",
-    "keywords": "family (man,man,girl) people gay family men baby lgbt lgbt"
-  },
-  {
-    "title": "Family Mmgb",
-    "symbol": "👨",
-    "keywords": "family (man,man,girl,boy) people gay family men baby lgbt lgbt"
-  },
-  {
-    "title": "Family Mmbb",
-    "symbol": "👨",
-    "keywords": "family (man,man,boy,boy) people gay family men baby lgbt lgbt"
-  },
-  {
-    "title": "Family Mmgg",
-    "symbol": "👨",
-    "keywords":
-      "family (man,man,girl,girl) people gay family men baby lgbt lgbt"
   },
   {
     "title": "Womans Clothes",
