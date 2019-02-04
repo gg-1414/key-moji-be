@@ -3,12 +3,12 @@ emojis = [
     "title": "100",
     "symbol": "💯",
     "keywords":
-      "hundred points symbol symbol wow wow win win perfect perfect parties parties"
+      "hundred points symbol wow win perfect parties"
   },
   {
     "title": "1234",
     "symbol": "🔢",
-    "keywords": "input symbol for numbers symbol"
+    "keywords": "input symbol for numbers"
   },
   {
     "title": "Grinning",
@@ -18,43 +18,43 @@ emojis = [
   {
     "title": "Grimacing",
     "symbol": "😬",
-    "keywords": "grimacing face silly smiley emotion emotion selfie selfie"
+    "keywords": "grimacing face silly smiley emotion  selfie"
   },
   {
     "title": "Grin",
     "symbol": "😁",
     "keywords":
-      "grinning face with smiling eyes happy silly smiley emotion emotion good good selfie selfie"
+      "grinning face with smiling eyes happy silly smiley emotion good selfie"
   },
   {
     "title": "Joy",
     "symbol": "😂",
     "keywords":
-      "face with tears of joy happy silly smiley cry laugh laugh emotion emotion sarcastic sarcastic"
+      "face with tears of joy happy silly smiley cry laugh emotion sarcastic"
   },
   {
     "title": "Smiley",
     "symbol": "😃",
     "keywords":
-      "smiling face with open mouth happy smiley emotion emotion good good"
+      "smiling face with open mouth happy smiley emotion good"
   },
   {
     "title": "Smile",
     "symbol": "😄",
     "keywords":
-      "smiling face with open mouth and smiling eyes happy smiley emotion emotion"
+      "smiling face with open mouth and smiling eyes happy smiley emotion"
   },
   {
     "title": "Sweat Smile",
     "symbol": "😅",
     "keywords":
-      "smiling face with open mouth and cold sweat smiley workout sweat emotion emotion"
+      "smiling face with open mouth and cold sweat smiley workout emotion"
   },
   {
     "title": "Laughing",
     "symbol": "😆",
     "keywords":
-      "smiling face with open mouth and tightly-closed eyes happy smiley laugh laugh emotion emotion"
+      "smiling face with open mouth and tightly-closed eyes happy smiley laugh emotion"
   },
   {
     "title": "Innocent",
@@ -70,7 +70,7 @@ emojis = [
     "title": "Blush",
     "symbol": "😊",
     "keywords":
-      "smiling face with smiling eyes happy smiley emotion emotion good good beautiful beautiful"
+      "smiling face with eyes happy smiley emotion good beautiful"
   },
   {
     "title": "Slight Smile",
@@ -80,18 +80,18 @@ emojis = [
   {
     "title": "Upside Down",
     "symbol": "🙃",
-    "keywords": "upside-down face silly smiley sarcastic sarcastic"
+    "keywords": "upside-down face silly smiley sarcastic"
   },
   {
     "title": "Yum",
     "symbol": "😋",
     "keywords":
-      "face savouring delicious happy silly smiley emotion emotion sarcastic sarcastic good good"
+      "face savouring delicious happy silly smiley emotion sarcastic good"
   },
   {
     "title": "Relieved",
     "symbol": "😌",
-    "keywords": "relieved face smiley emotion emotion"
+    "keywords": "relieved face smiley emotion"
   },
   {
     "title": "Heart Eyes",
@@ -5390,37 +5390,17 @@ emojis = [
   {
     "title": "Walking Tone1",
     "symbol": "🚶",
-    "keywords": "pedestrian tone 1 person"
+    "keywords": "pedestrian tone 1 person man"
   },
   {
     "title": "Runner Tone1",
     "symbol": "🏃",
-    "keywords": "runner tone 1 person"
+    "keywords": "runner tone 1 person man"
   },
   {
-    "title": "Dancer Tone1",
+    "title": "Dancer",
     "symbol": "💃",
-    "keywords": "dancer tone 1 person"
-  },
-  {
-    "title": "Dancer Tone2",
-    "symbol": "💃",
-    "keywords": "dancer tone 2 person"
-  },
-  {
-    "title": "Dancer Tone3",
-    "symbol": "💃",
-    "keywords": "dancer tone 3 person"
-  },
-  {
-    "title": "Dancer Tone4",
-    "symbol": "💃",
-    "keywords": "dancer tone 4 person"
-  },
-  {
-    "title": "Dancer Tone5",
-    "symbol": "💃",
-    "keywords": "dancer tone 5 person"
+    "keywords": "dancer person woman red dress"
   },
   {
     "title": "Bow Tone1",
@@ -5430,42 +5410,42 @@ emojis = [
   {
     "title": "Information Desk Person Tone1",
     "symbol": "💁",
-    "keywords": "information desk person tone 1"
+    "keywords": "information desk person tone 1 woman"
   },
   {
     "title": "No Good Tone1",
     "symbol": "🙅",
-    "keywords": "face with no good gesture tone 1"
+    "keywords": "face with no good gesture tone 1 woman"
   },
   {
     "title": "Ok Woman Tone1",
     "symbol": "🙆",
-    "keywords": "face with ok gesture tone1"
+    "keywords": "face with ok gesture tone1 woman"
   },
   {
     "title": "Raising Hand Tone1",
     "symbol": "🙋",
-    "keywords": "happy person raising one hand tone1"
+    "keywords": "happy person raising one hand tone1 woman"
   },
   {
     "title": "Person With Pouting Face Tone1",
     "symbol": "🙎",
-    "keywords": "person with pouting face tone1"
+    "keywords": "person with pouting face tone1 woman"
   },
   {
     "title": "Person Frowning Tone1",
     "symbol": "🙍",
-    "keywords": "person frowning tone 1"
+    "keywords": "person frowning tone 1 woman"
   },
   {
     "title": "Haircut Tone1",
     "symbol": "💇",
-    "keywords": "haircut tone 1 person"
+    "keywords": "haircut tone 1 person woman"
   },
   {
     "title": "Massage Tone1",
     "symbol": "💆",
-    "keywords": "face massage tone 1"
+    "keywords": "face massage tone 1 woman"
   },
   {
     "title": "Rowboat Tone1",
